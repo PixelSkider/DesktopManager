@@ -1,2 +1,9 @@
 # DesktopManager
-a tool can let your desktopicon and taskbar hide
+这是一个由Java所编写的工具
+
+他的功能有以下:
+
+1.隐藏桌面图标
+2.隐藏任务栏
+
+(其他功能待添加，如果有想要加入的功能，可以发邮件或Issues)
